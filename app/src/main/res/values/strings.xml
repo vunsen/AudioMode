@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioMode</string>
+    <string name="normal">正常</string>
+    <string name="vibration">震动</string>
+    <string name="mute">静音</string>
+    <string name="Exit">退出</string>
+</resources>
